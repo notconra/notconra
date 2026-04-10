@@ -1,4 +1,4 @@
-<h2 align="center">Estudiante de Ingenieria Informatica FIUBA<br>Ayudante de Catedra Introduccion al Desarrollo Web FIUBA</h2>
+<h2 align="center">Estudiante de Ingenieria Informatica FIUBA<br>Ayudante de Catedra Introduccion al Desarrollo Software FIUBA</h2>
 
 ###
 
